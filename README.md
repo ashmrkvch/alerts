@@ -1,5 +1,5 @@
-# alerts
-Alerting for Stackdriver Monitoring
+# Alerts and UpTimeChecks for DEMO3
+
 ## Compatibility
 
 This project is meant for use with Terraform v0.12.20 and Google provider v3.8.0
