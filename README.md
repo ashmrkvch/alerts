@@ -10,7 +10,7 @@ This project is meant for use with Terraform v0.12.20 and Google provider v3.8.0
 - `google_monitoring_notification_channel`   create notification channel for alerting
 - `google_monitoring_alert_policy`                    create alert policy for monitoring
 
-### Metrics for monitoring
+### Metrics for alert_policies
 
 ###### Nginx
 
